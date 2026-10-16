@@ -101,6 +101,17 @@ Because ratio is a layout decision, not a style one: 1:1 for catalogue and icons
 
 That is the point. Keep the structure (subject + light + framing + setting + finish) and replace the subject; changing everything at once makes it impossible to tell which phrase moved the output.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [grok-imagine-1-5-api-pt](https://github.com/u2dec2i-ji/grok-imagine-1-5-api-pt)
+- **Same model, other languages** — 9 more language builds: 中文 [grok-imagine-1-5-api-cn](https://github.com/ke6yg044xwihmo/grok-imagine-1-5-api-cn) · Deutsch [grok-imagine-1-5-api-de](https://github.com/je4w09hwo/grok-imagine-1-5-api-de) · Español [grok-imagine-1-5-api-es](https://github.com/hgi2nd3z1h8dn/grok-imagine-1-5-api-es) · Français [grok-imagine-1-5-api-fr](https://github.com/nn2bfsza/grok-imagine-1-5-api-fr) · Relay/gateway `grok-imagine-1-5-api-gateway` · Bahasa `grok-imagine-1-5-api-id` · 日本語 [grok-imagine-1-5-api-ja](https://github.com/vjuhp4dhedflc4/grok-imagine-1-5-api-ja) · 한국어 [grok-imagine-1-5-api-ko](https://github.com/zgfsenvosnw1/grok-imagine-1-5-api-ko) · Русский `grok-imagine-1-5-api-ru`
+- **More models in this language** — [midjourney-api-pt](https://github.com/l-ca0/midjourney-api-pt) · [gemini-2-5-flash-image-preview-api-pt](https://github.com/ycx8l0/gemini-2-5-flash-image-preview-api-pt) · [nano-banana-api-pt](https://github.com/erujt71i1lx/nano-banana-api-pt) · [gemini-3-1-flash-image-preview-api-pt](https://github.com/hutjwux0nt9h/gemini-3-1-flash-image-preview-api-pt) · [nano-banana-2-api-pt](https://github.com/ydkd8kdkl8n/nano-banana-2-api-pt) · [gemini-3-pro-image-preview-api-pt](https://github.com/qss2d-66qb2n7/gemini-3-pro-image-preview-api-pt)
+- **Topic hubs** — every build of this model, all languages: [grok-imagine-1-5](https://github.com/topics/grok-imagine-1-5) · [grok-imagine-1-5-api](https://github.com/topics/grok-imagine-1-5-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
